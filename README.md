@@ -46,6 +46,8 @@ Gráfico real comparando antes e depois da implementação de serviços AWS:
 
 
 Assinatura do Responsável pelo Projeto:
+
+```text
                          .                        
                         @&,                       
                        &&&&,                      
@@ -65,7 +67,7 @@ Assinatura do Responsável pelo Projeto:
          .     &&                /&@     #        
             &        %,     (,       &,           
                 /&&&&&&&&&&&&&&&&@     
-
+```
 **J. WILTGEN**
 
 
